@@ -1,1 +1,1 @@
-print("Java Linked Successfully")
+alert("Hello World");
